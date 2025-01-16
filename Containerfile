@@ -1,4 +1,4 @@
-FROM debian:latest
+FROM debian:stable-slim
 
 ENV CERT_DIR=/certs
 
